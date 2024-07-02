@@ -38,6 +38,10 @@ label {
   margin-bottom: 3px;
 }
 
+.predict{
+  color: white;
+}
+
 input {
   border-radius: 10px;
   border: none;
